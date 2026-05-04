@@ -3,7 +3,7 @@
 This project demonstrates an end-to-end Azure data engineering workflow using a Medallion Architecture (Bronze, Silver, Gold). Infrastructure is provisioned with Terraform (Infrastructure as Code), while Azure Data Factory is used to clean and transform the data in the cloud. Synthetic data is generated with Python, processed into structured layers, and finally visualized in Power BI to deliver business insights for analytics.
 
 ![Power BI Dashboard](Power%20BI/PowerBI.png)
-Note: This project uses synthetic data. No sensitive or real-world data is included.
+Note: This project uses synthetic data. No real-world data is included.
 
 ### Tech Stack
 
